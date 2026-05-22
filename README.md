@@ -2,7 +2,7 @@
 
 **Full Stack Web Developer | BCA Student | PHP, JavaScript, C# Enthusiast**
 
-[![Website](https://img.shields.io/badge/Portfolio-puskarniroula.vercel.app-blue)](http://puskarniroula.vercel.app/)  
+[![Website](https://img.shields.io/badge/Portfolio-puskarniroula.com.np-blue)](http://puskarniroula.com.np/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Puskar%20Niroula-blue)](https://www.linkedin.com/in/puskar-niroula-aa75ba326/)  
 [![GitHub](https://img.shields.io/badge/GitHub-PuskarDaju-black)](https://github.com/PuskarDaju)
 
