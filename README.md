@@ -74,8 +74,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Puskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuskarDaju&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuskarDaju&layout=compact&theme=radical)
+![Puskar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PuskarNiroula&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PuskarNiroula&layout=compact&theme=radical)
 
 ---
 
